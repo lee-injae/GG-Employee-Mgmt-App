@@ -20,5 +20,5 @@ useState hook for state management
 
 Reactstrap / Bootstrap for Table, Form, and Modal UI
 
-![home](./EmployeeMgmtApp_Home.png)
-![update](./EmployeeMgmtApp_Update.png)
+![home](./public/EmployeeMgmtApp_Home.png)
+![update](./public/EmployeeMgmtApp_Update.png)
