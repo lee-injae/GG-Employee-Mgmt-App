@@ -1,0 +1,15 @@
+.page-container {
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+tbody>tr:nth-child(odd){
+    background-color: #f0f0f0;
+}
+
