@@ -20,4 +20,4 @@ Reactstrap / Bootstrap for Table, Form, and Modal UI
 
 ![home](./public/EmployeeMgmtApp_Home)
 ![update](./public/EmployeeMgmtApp_Update)
-![Data](./public/EmployeeMgmtAppJSON)
+![data](./public/EmployeeMgmtApp_JSON)
