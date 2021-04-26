@@ -7,9 +7,9 @@ Created by Injae Lee, 18 Dec 2020
 
 ## Instructions
 
-1. type <npm run start-flask> in terminal to run flask server
-2. type <npm install> for react-bootsrap dependency installation
-3. type <npm start> in a separate terminal to run frontend
+1. Type <npm run start-flask> in terminal to run flask server
+2. Type <npm install> for react-bootsrap dependency installation
+3. Type <npm start> in a separate terminal to run frontend
 4. You can view data JSON at http://localhost:5000/employees
 5. Enjoy the app and any feedback is welcomed! 
 
